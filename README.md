@@ -10,7 +10,6 @@ The project focuses on **practical business intelligence use cases**, clean SQL 
 **Dataset period:**  
 September 2016 – October 2018
 
----
 
 ## 🎯 Business Objectives
 
@@ -19,7 +18,6 @@ September 2016 – October 2018
 - Evaluate product-level performance  
 - Understand revenue concentration and growth patterns  
 
----
 
 ## 🗂 Dataset Description
 
@@ -158,4 +156,4 @@ All rights to the analytical work, structure, and presentation of this project b
 Unauthorized copying or redistribution of this project’s analytical content without proper attribution is discouraged.
 
                                                                                     
-                                                                                                © 2026 Ali Tekin. All rights reserved.
+                                                                               © 2026 Ali Tekin. All rights reserved.
