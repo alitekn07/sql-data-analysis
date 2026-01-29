@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 
-This project is an end-to-end **SQL data analysis portfolio project** built using a real-world Brazilian e-commerce dataset from Kaggle.  
+This project is an end-to-end **SQL data analysis portfolio project** built using a real-world Brazilian e-commerce dataset from Kaggle. 
+
 The objective is to analyze **sales performance, revenue trends, product categories, and top-performing products** using PostgreSQL.
 
 **Dataset period:**  
