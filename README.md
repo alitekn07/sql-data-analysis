@@ -156,4 +156,4 @@ All rights to the analytical work, structure, and presentation of this project b
 Unauthorized copying or redistribution of this project’s analytical content without proper attribution is discouraged.
 
                                                                                     
-                                                                   © 2026 Ali Tekin. All rights reserved.
+                                                               © 2026 Ali Tekin. All rights reserved.
