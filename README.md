@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/alitekn07/sql-data-analysis">
+    <img src="https://i.imgur.com/Tn97RBF.png" alt="Portfolio Cover Image"/>
+  </a>
+</p>
+
+
 # 📊 SQL Data Analysis – E-Commerce Sales & Revenue Insights
 
 ## 📌 Project Overview
